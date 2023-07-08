@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alekseiy
 - 👀 Мне нравится программировать, путешествовать, Наслождаться жизнью
 - 🌱 I’m currently learning in GeekBrains
-- 💞️ Хочу принять участие в стартапе...
+- 💞️ Хочу ...
 - 📫 How to reach me Alekseiy80@mail.ru
 
 <!---
